@@ -8,7 +8,7 @@ A collection of practical and basic exercises for Deno.
 - [Objects](https://github.com/sammwyy/denobasics/blob/master/basic-examples/objects.ts)
 
 #### File Examples
-- [Copy File](https://github.com/sammwyy/denobasics/blob/master/file-examples/copy-file.ts)az
+- [Copy File](https://github.com/sammwyy/denobasics/blob/master/file-examples/copy-file.ts)
 - [Create Directory if not Exist](https://github.com/sammwyy/denobasics/blob/master/file-examples/create-directory-if-not-exist.ts)
 - [Delete all Files in Directory](https://github.com/sammwyy/denobasics/blob/master/file-examples/delete-all-files-in-directory.ts)
 - [Move File](https://github.com/sammwyy/denobasics/blob/master/file-examples/move-file.ts)
